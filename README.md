@@ -1,3 +1,5 @@
+para testar utlize o usuario: usuario@gmail.com  e senha 123456
+
 # login
 
 A new Flutter project.
